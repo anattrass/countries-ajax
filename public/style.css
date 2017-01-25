@@ -1,0 +1,16 @@
+body {
+  text-align: right;
+  font-family: helvetica;
+  background-image: url("https://www.clipperroundtheworld.com/inc/img/bigmap.png");
+  color: green;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+#main-map {
+ position: absolute;
+  height: 500px;
+  width: 500px;
+}
